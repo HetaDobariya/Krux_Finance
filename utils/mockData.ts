@@ -23,7 +23,7 @@ export const initialTickets: SupportTicket[] = [
     {
         id: 'TKT001',
         customerId: '1',
-        customerName: 'Rahul Sharma',
+        customerName: 'Shah Raghu',
         customerPhone: '+919876543210',
         status: 'open',
         priority: 'medium',
@@ -71,7 +71,7 @@ export const initialTickets: SupportTicket[] = [
         ],
         createdAt: new Date('2024-02-20T09:30:00'),
         updatedAt: new Date('2024-02-20T09:31:00'),
-        assignedAgent: 'amit.kumar',
+        assignedAgent: 'heta.doba',
         lastMessage: 'What documents are needed for a personal loan?',
         unreadCount: 0
     }
